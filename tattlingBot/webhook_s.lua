@@ -1,3 +1,8 @@
+--
+-- Created by daniellages and LiTO773
+-- Date 16/02/2020 (dd/mm/yy)
+--
+
 local discord_webhook = {
     -- Insert Discord Webhook URL here!!!
     url = "",
